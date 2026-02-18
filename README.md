@@ -21,3 +21,10 @@ Data Collection → AI Processing → Personalization Engine → Dashboard
 
 ## Project Status
 Prototype development stage.
+
+## Documentation
+
+- Project Structure: See PROJECT_STRUCTURE.md
+- Research Basis: See REFERENCES.md
+
+Further development and model integration in progress
